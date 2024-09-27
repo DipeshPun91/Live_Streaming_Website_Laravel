@@ -21,6 +21,9 @@ To set up the project locally:
 Clone the repository:
 git clone https://github.com/your-username/live-streaming-website.git
 
+Switch to the master branch:
+git checkout master
+
 Install dependencies:
 composer install
 npm install
